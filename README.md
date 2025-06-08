@@ -15,7 +15,7 @@ To run the A\* visualizer locally, follow these steps:
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/A-Visualiser.git
+git clone https://github.com/your-username/A_star-Visualiser.git
 ```
 
 2. **Install dependencies**:
